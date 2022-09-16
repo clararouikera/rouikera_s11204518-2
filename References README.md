@@ -1,1 +1,6 @@
-# rouikera_s11204518-2
+Erber, J., Pribbenow, B., Kisch, J., & Faensen, D. (2000). Operant conditioning of antennal muscle activity in the honey bee (0RW1S34RfeSDcfkexd09rT2apis mellifera1RW1S34RfeSDcfkexd09rT2 L.). Journal of Comparative Physiology, 186(6), 557-565. doi:https://doi.org/10.1007/s003590000111 
+Johnson, A. M., Lenell, C., Severa, E., Rudisch, D. M., Morrison, R. A., & Shembel, A. C. (2022). Semi-automated training of rat ultrasonic vocalizations. Frontiers in Behavioral Neuroscience, doi:https://doi-org.ezproxy.usp.ac.fj/10.3389/fnbeh.2022.826550 
+Ketkale, H., & Simske, S. (2022). Encouraging reuse in the corrugated packaging industry using persuasion and operant conditioning. Sustainability, 14(11), 6454. doi:https://doi.org/10.3390/su14116454 
+Maria Elena, M. P., Pecunioso, A., Dadda, M., & Agrillo, C. (2019). The impact of brain lateralization and anxiety-like behaviour in an extensive operant conditioning task in zebrafish (0RW1S34RfeSDcfkexd09rT2danio rerio1RW1S34RfeSDcfkexd09rT2). Symmetry, 11(11), 1395. doi:https://doi-org.ezproxy.usp.ac.fj/10.3390/sym11111395
+Williams, M. L., Torrini, L. A., Nolan, E. J., & Loughman, Z. J. (2022). Using classical and operant conditioning to train a shifting behavior in juvenile false water cobras (0RW1S34RfeSDcfkexd09rT2hydrodynastes gigas1RW1S34RfeSDcfkexd09rT2). Animals, 12(10), 1229. doi:https://doi.org/10.3390/ani12101229 
+
